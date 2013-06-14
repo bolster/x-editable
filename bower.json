@@ -1,0 +1,8 @@
+{
+    "name": "x-editable",
+    "version": "1.4.4",
+    "main": [
+        "dist/bootstrap-editable/css/bootstrap-editable.css",
+        "dist/bootstrap-editable/js/bootstrap-editable.js"
+    ]
+}
