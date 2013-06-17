@@ -4,5 +4,8 @@
     "main": [
         "dist/bootstrap-editable/css/bootstrap-editable.css",
         "dist/bootstrap-editable/js/bootstrap-editable.js"
-    ]
+    ],
+    "dependencies": {
+        "bootstrap": ">= 2.3.2"
+    }
 }
